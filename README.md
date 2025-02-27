@@ -2,7 +2,7 @@
 -	Automates a fishing mini-game by detecting the game objects in real-time.
 -	Uses object detection with YOLOv11 to interact with in-game elements.
 -	Model petpals-fishing-bot/8 (https://app.roboflow.com/6uo-testing/petpals-fishing-bot/models) was trained and used
-<img width="1364" alt="Screenshot 2025-02-28 at 2 13 16 AM" src="https://github.com/user-attachments/assets/6520a42c-1efa-40e8-a7b2-3ff9ca1ee7a0" />
+<img width="700" alt="Screenshot 2025-02-28 at 2 13 16 AM" src="https://github.com/user-attachments/assets/6520a42c-1efa-40e8-a7b2-3ff9ca1ee7a0" />
 
 
 
